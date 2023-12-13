@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Justlogix/static/css/main.4f027c1b.css",
-    "main.js": "/Justlogix/static/js/main.fe11fec1.js",
+    "main.js": "/Justlogix/static/js/main.ebc5e461.js",
     "static/media/ecommerce.png": "/Justlogix/static/media/ecommerce.e0e0dba3b4d2327eb93d.png",
     "static/media/service1.jpg": "/Justlogix/static/media/service1.005768e31d460f40c939.jpg",
     "static/media/mobileapp.png": "/Justlogix/static/media/mobileapp.0b62859935ffa8108bfb.png",
@@ -43,10 +43,10 @@
     "static/media/rate4.png": "/Justlogix/static/media/rate4.0d35225b56a9eb4c68b3.png",
     "index.html": "/Justlogix/index.html",
     "main.4f027c1b.css.map": "/Justlogix/static/css/main.4f027c1b.css.map",
-    "main.fe11fec1.js.map": "/Justlogix/static/js/main.fe11fec1.js.map"
+    "main.ebc5e461.js.map": "/Justlogix/static/js/main.ebc5e461.js.map"
   },
   "entrypoints": [
     "static/css/main.4f027c1b.css",
-    "static/js/main.fe11fec1.js"
+    "static/js/main.ebc5e461.js"
   ]
 }
